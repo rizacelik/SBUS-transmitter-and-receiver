@@ -38,6 +38,10 @@ I used one PS2 Gamepad for the transmitter. I removed all the parts except the j
 
 ![image](https://github.com/rizacelik/SBUS-transmitter-and-receiver/assets/19993109/b3b49363-efca-4b80-9fa0-e937e864ce38)
 
+# Receiver output PWM and SBUS
+![image](https://github.com/rizacelik/SBUS-transmitter-and-receiver/assets/19993109/a1384db6-a168-4dd8-8b07-14f783343456)
+
+
 # Isolate the transmitter from external interference using aluminum tape.
 ![image](https://github.com/rizacelik/SBUS-transmitter-and-receiver/assets/19993109/81c78719-67fd-489f-917a-1c8c0b87591b)
 
