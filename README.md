@@ -1,6 +1,8 @@
 # SBUS Transmitter and Receiver
 ## Transmitter Remote Controller Radio Sbus Signal Receiver 2.4g 12ch
 
+### Video : https://youtu.be/tUPHeCsT33w
+
 2.4G 6CH S-FHSS FSK Transmitter Remote Controller Radio System And SBUS Signal Receiver
 Basic Parameters Of Remote Control:
 1. Suitable For Use In: Fixed-wing Aircraft Model,Multi-rotor Model,Electric Vehicle, Electric/Model/Tanker;
