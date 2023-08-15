@@ -45,3 +45,8 @@ I used one PS2 Gamepad for the transmitter. I removed all the parts except the j
 # Isolate the transmitter from external interference using aluminum tape.
 ![image](https://github.com/rizacelik/SBUS-transmitter-and-receiver/assets/19993109/81c78719-67fd-489f-917a-1c8c0b87591b)
 
+# Capacitor is missing on module.
+1.0pF capacitor is missing from all my nRF24L01+ modules. I marked it on the module. Although the capacitor is missing, the module works, but you can solder the missing place to be more efficient.
+![image](https://github.com/rizacelik/SBUS-transmitter-and-receiver/assets/19993109/1c4463d0-8013-40fd-86b2-a10ec71f587d)
+
+
