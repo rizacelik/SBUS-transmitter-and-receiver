@@ -19,6 +19,12 @@ SBUS is a bus protocol for receivers to send commands to servos. Unlike PWM, SBU
 SBUS messages consist of 25 UART bytes. A message provides 16 proportional channels of 11 bits each, 2 digital channels of 1 bit each, and two flags (frame lost, failsafe). Applications may communicate values between 192 and 1792 on the wire, and map these to values 1000 to 2000 for their firmware purposes.
 ![image](https://github.com/rizacelik/SBUS-transmitter-and-receiver/assets/19993109/0eb56246-5a30-48aa-ac02-1726b23f2328)
 
+## Connect board
+The SBUS signal is inverted in this application. You will not use anything additional. You can connect the signal output directly to the card. See the diagram below.
+
+![image](https://github.com/rizacelik/SBUS-transmitter-and-receiver/assets/19993109/b14b7234-91fa-4e99-82b9-af1b4a22271d)
+
+
 # Construction Process.
 I used one PS2 Gamepad for the transmitter. I removed all the parts except the joystick. I made room for the on off p2 button and the Potantiometer using a blade. You can use a knife as it is a soft material.
 
