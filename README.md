@@ -38,7 +38,7 @@ I used one PS2 Gamepad for the transmitter. I removed all the parts except the j
 ![image](https://github.com/rizacelik/SBUS-transmitter-and-receiver/assets/19993109/42523d89-ead9-4b09-9566-459e62e32319)
 
 # Circuit diagram(Transmitter)
-![image](https://github.com/rizacelik/SBUS-transmitter-and-receiver/assets/19993109/6c013dae-b590-4879-86a7-0240f14436d4)
+![image](https://github.com/rizacelik/SBUS-transmitter-and-receiver/assets/19993109/d697bef1-fe3e-439b-9cc3-b660a57b4511)
 
 # Circuit diagram(Receiver)
 
